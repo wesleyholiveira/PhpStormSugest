@@ -1,3 +1,3 @@
 <?php
 
-class HelperForm extends HelperFormCore {}
+class Helper extends HelperCore {}
